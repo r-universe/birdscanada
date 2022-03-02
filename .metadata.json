@@ -3,6 +3,9 @@
     "package": "motus"
   },
   {
+    "package": "motusData"
+  },
+  {
     "package": "naturecounts"
   }
 ]
