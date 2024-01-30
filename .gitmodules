@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/birdscanada/universe
-	shallow = true
 	branch = HEAD
 [submodule "motus"]
 	path = motus
 	url = https://github.com/MotusWTS/motus
-	shallow = true
-	registered = true
 [submodule "motusData"]
 	path = motusData
 	url = https://github.com/MotusWTS/motusData
-	shallow = true
-	registered = true
 [submodule "naturecounts"]
 	path = naturecounts
 	url = https://github.com/birdscanada/naturecounts
-	shallow = true
-	registered = true
