@@ -11,7 +11,3 @@
 [submodule "naturecounts"]
 	path = naturecounts
 	url = https://github.com/birdscanada/naturecounts
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
